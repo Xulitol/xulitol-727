@@ -4,6 +4,7 @@
 // @version      0.1
 // @description  try to take over the world!
 // @author       xulitol
+// @noframes
 // @include      http://osu.ppy.sh*
 // @include      https://osu.ppy.sh*
 // @include      http://old.ppy.sh*
